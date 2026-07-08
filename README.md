@@ -1,2 +1,2 @@
 # PLST-ILA
-The scripts about a retrieval approach for passive microwave remote sensing land surface temperature
+This script is demonstrating the mainly algorithm strategy of a retrieval method that integrates land-air environmental conditions for passive microwave-based land surface temperature.
